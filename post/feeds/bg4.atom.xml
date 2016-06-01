@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/bg4.atom.xml" rel="self"></link><id>./</id><updated>2016-06-02T00:40:28+08:00</updated><entry><title>40323208-期中報告</title><link href="./40323208-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-02T00:40:28+08:00</updated><author><name>40323208</name></author><id>tag:,2016-06-02:./40323208-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;&lt;font size="4"&gt;40323208-期中報告&lt;/font&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW2 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/bg4.atom.xml" rel="self"></link><id>./</id><updated>2016-06-02T01:04:59+08:00</updated><entry><title>40323205-期中報告</title><link href="./40323205-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-02T01:04:59+08:00</updated><author><name>40323205</name></author><id>tag:,2016-06-02:./40323205-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;&lt;font size="4"&gt;40323205-期中報告&lt;/font&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;b&gt;&lt;font size="4"&gt;期中自評分數：60&lt;/font&gt;&lt;/b&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+協同繪圖：&lt;a href="http://cdw2bg4-40323201.rhcloud.com/bg4/taskbg4"&gt;bg4畫布藍圖&lt;/a&gt;
+&lt;/br&gt;
+個人繪圖：&lt;a href="http://bg4scrum4-40323205.rhcloud.com/bg4/scrum4_D"&gt;個人畫布藍圖&lt;/a&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+組員協同2D繪圖：
+&lt;/br&gt;
+&lt;img src="https://copy.com/FK2xfpzT3VZq44d8"  width="400" height="300"&gt;
+&lt;/img&gt;
+&lt;/br&gt;
+【組內字母分配】&lt;/br&gt;
+A (黑色) --- 40323201&lt;/br&gt;
+B (黃色) --- 40323202&lt;/br&gt;
+C (紫色) --- 40323203&lt;/br&gt;
+D (白色) --- 40323205&lt;/br&gt;
+E、F (綠色) --- 40123128&lt;/br&gt;
+G (棕色) --- 40323208&lt;/br&gt;
+&lt;/br&gt;
+圖為個人2D繪圖：
+&lt;/br&gt;
+&lt;img src="https://copy.com/WfZ2CgcpMFNnqtIk"  width="400" height="300"&gt;
+&lt;/img&gt;
+&lt;/br&gt;
+3D立體圖部分是在onshape上繪圖：
+&lt;/br&gt;
+&lt;img src="https://copy.com/swpZeNYtv2yHeXKz"  width="400" height="300"&gt;
+&lt;/img&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+圖為在onshape上輸出為stl檔的3D立體圖：
+&lt;/br&gt;
+&lt;script src="https://embed.github.com/view/3d/40323205/cdw2_chainD/master/chain_D.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt;
+&lt;font size="4"&gt;期中報告心得：&lt;/font&gt;
+&lt;/br&gt;
+「協同」是這學期最重要的事情，要利用fork的功能，將自己的檔案更改完後，&lt;/br&gt;
+需再利用Pull Request的功能，請組長幫忙審核，即可完成。&lt;/br&gt;
+一開始的時候真的毫無頭緒，不知道該從何做起，感謝組員用心的教導，&lt;/br&gt;
+才能完成本次的作業。&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;</summary><category term="scrum4"></category><category term="task1"></category><category term="40323205"></category></entry><entry><title>40323208-期中報告</title><link href="./40323208-qi-zhong-bao-gao.html" rel="alternate"></link><updated>2016-06-02T00:40:28+08:00</updated><author><name>40323208</name></author><id>tag:,2016-06-02:./40323208-qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;&lt;font size="4"&gt;40323208-期中報告&lt;/font&gt;&lt;/p&gt;
 
 
 &lt;p&gt;&lt;font size="4"&gt;期中報告自評分數:60&lt;/font&gt;

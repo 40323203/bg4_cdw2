@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-06-02T00:43:53-00:00</lastmod>
+<lastmod>2016-06-02T01:05:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-06-02T00:43:53-00:00</lastmod>
+<lastmod>2016-06-02T01:05:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-06-02T00:43:53-00:00</lastmod>
+<lastmod>2016-06-02T01:05:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-06-02T00:43:53-00:00</lastmod>
+<lastmod>2016-06-02T01:05:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2016-06-02T00:31:15+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./40323205-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-06-02T01:04:59+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,14 +82,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/bg4.html</loc>
-<lastmod>2016-06-02T00:40:28+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/40323201.html</loc>
-<lastmod>2016-06-02T00:32:52+08:06</lastmod>
+<lastmod>2016-06-02T01:04:59+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -95,14 +95,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/40323203.html</loc>
-<lastmod>2016-06-02T00:31:15+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/40323208.html</loc>
+<loc>./tag/scrum5.html</loc>
 <lastmod>2016-06-02T00:40:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -116,7 +109,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/scrum5.html</loc>
+<loc>./tag/40323201.html</loc>
+<lastmod>2016-06-02T00:32:52+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/40323208.html</loc>
 <lastmod>2016-06-02T00:40:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -130,8 +130,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/40323203.html</loc>
+<lastmod>2016-06-02T00:31:15+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/40323205.html</loc>
+<lastmod>2016-06-02T01:04:59+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/scrum4.html</loc>
+<lastmod>2016-06-02T01:04:59+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/task1.html</loc>
-<lastmod>2016-06-02T00:40:28+08:06</lastmod>
+<lastmod>2016-06-02T01:04:59+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -146,6 +167,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./author/40323203.html</loc>
 <lastmod>2016-06-02T00:31:15+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/40323205.html</loc>
+<lastmod>2016-06-02T01:04:59+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
