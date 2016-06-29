@@ -4,190 +4,218 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>./</loc>
-<lastmod>2016-06-29T19:28:44-00:00</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/</loc>
+<lastmod>2016-06-29T20:03:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./archives.html</loc>
-<lastmod>2016-06-29T19:28:44-00:00</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/archives.html</loc>
+<lastmod>2016-06-29T20:03:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tags.html</loc>
-<lastmod>2016-06-29T19:28:44-00:00</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tags.html</loc>
+<lastmod>2016-06-29T20:03:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./categories.html</loc>
-<lastmod>2016-06-29T19:28:44-00:00</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/categories.html</loc>
+<lastmod>2016-06-29T20:03:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./pages/about/</loc>
-<lastmod>2016-06-29T19:27:27+08:00</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/pages/about/</loc>
+<lastmod>2016-06-29T19:50:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</loc>
-<lastmod>2016-06-29T19:27:27+08:00</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/40323202-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-06-29T19:53:47+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323201-qi-zhong-bao-gao.html</loc>
-<lastmod>2016-06-29T19:27:27+08:00</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/user1-ce-shi-content-mu-lu-xia-de-md-dang-an-zhuan-huan.html</loc>
+<lastmod>2016-06-29T19:50:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323208-qi-zhong-bao-gao.html</loc>
-<lastmod>2016-06-29T19:27:27+08:00</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/40323201-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-06-29T19:50:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323205-qi-zhong-bao-gao.html</loc>
-<lastmod>2016-06-29T19:27:27+08:00</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/40323208-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-06-29T19:50:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323203-qi-zhong-bao-gao.html</loc>
-<lastmod>2016-06-29T19:27:27+08:00</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/40323203-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-06-29T19:50:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/ag1.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/40323205-qi-zhong-bao-gao.html</loc>
+<lastmod>2016-06-29T19:50:01+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://40323203.github.io/bg4_cdw2/post/category/ag1.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/bg4.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/category/bg4.html</loc>
+<lastmod>2016-06-29T19:53:47+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/fan-li.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/40323208.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/scrum5.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/scrum1.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/scrum1.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/40323205.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/task1.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/40323203.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323205.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/task1.html</loc>
+<lastmod>2016-06-29T19:53:47+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/scrum4.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/scrum3.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323208.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/fan-li.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/scrum3.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/scrum5.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323203.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/scrum4.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323201.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/40323202.html</loc>
+<lastmod>2016-06-29T19:53:47+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323201.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/scrum2.html</loc>
+<lastmod>2016-06-29T19:53:47+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323203.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/tag/40323201.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323205.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/author/40323201.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323208.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/author/40323202.html</loc>
+<lastmod>2016-06-29T19:53:47+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/kmol.html</loc>
-<lastmod>2016-06-29T19:27:27+08:06</lastmod>
+<loc>http://40323203.github.io/bg4_cdw2/post/author/40323203.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://40323203.github.io/bg4_cdw2/post/author/40323205.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://40323203.github.io/bg4_cdw2/post/author/40323208.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://40323203.github.io/bg4_cdw2/post/author/kmol.html</loc>
+<lastmod>2016-06-29T19:50:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
